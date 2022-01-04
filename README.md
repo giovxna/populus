@@ -35,7 +35,6 @@ você pode visualizar o layout do projeto através [desse link](https://www.figm
 ## redes sociais
 
 - [Instagram](www.instagram.com/populusnine)
-- [Gmail](mailto:popninedemoday@gmail.com)
 
 ## features 
 
