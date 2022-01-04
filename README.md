@@ -42,6 +42,16 @@ você pode visualizar o layout do projeto através [desse link](https://www.figm
 - implementação de serviço de entrega
 - controle geral do seu comércio por meio da plataforma
 
+## veja na prática
+
+```bash
+# clone o projeto e acesse a pasta
+git clone https://github.com/giovxna/populus.git
+cd populus
+```
+
+**obs:** é recomendado que você use o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para acessar o projeto em seu servidor local.
+
 ## desenvolvedores
 
 | NOME | LINKEDIN | GITHUB |
