@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="#SOBRE">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#LAYOUT">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#REDES-SOCIAIS">Redes Sociais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#DESENVOLVEDORES">Desenvolvedores</a>
+  <a href="#sobre">sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#redes-sociais">redes sociais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#desenvolvedores">desenvolvedores</a>
 </p>
 
 ![DEMODAY](https://user-images.githubusercontent.com/95506525/145920161-881d9584-8f3f-48d3-bbf9-f5604b05ab7c.png)
 
 
-## 🐙 SOBRE
+## sobre
 
 - no projeto integrador, o tema geral consistia em "desenvolver uma solução em tecnologia Web, voltada para atender necessidades do mercado local, com foco em escalabilidade, inclusão, sustentabilidade e eficiência".
 após pesquisas, chegamos a uma conclusão: comércios locais costumam comprar poucas quantidades de estoque e, por conta disso, o preço de venda aumenta. 
