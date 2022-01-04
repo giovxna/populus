@@ -34,7 +34,7 @@ você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## redes sociais
 
-- [Instagram](www.instagram.com/populusnine)
+- [Instagram](https://www.instagram.com/populusnine/)
 
 ## features 
 
